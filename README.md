@@ -1,6 +1,7 @@
 # AquaDesk — Swimming Pool Management & POS
 
 A modern, responsive PHP + MySQL management dashboard for a swimming pool business. AquaDesk combines retail point-of-sale billing, inventory, customer records, swim-session timers, bookings, and sales reporting in one mobile-friendly interface.
+Try this project :- https://pool-manegment.free.nf/
 
 ## Highlights
 
